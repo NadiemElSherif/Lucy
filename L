@@ -1,0 +1,7 @@
+{
+  "name": "Lucy_Pool",
+  "ticker": "LUCY",
+  "description": "A pool for cat lovers!",
+  "homepage": "https://nadiemsherif3.wixsite.com/lucy-pool",
+  "nonce": "1610820025"
+}
