@@ -7,6 +7,7 @@
             "instagram_handle": "kingjames_princesslucy",
             "discord_handle": "Lucy_Pool",
             "reddit_handle": "https://www.reddit.com/user/Lucy_Pool",
+            "telegram_handle": "https://t.me/Lucy_Pool",
             "twitter_handle": "Lucy_Pool5"
         },
         "company": {
