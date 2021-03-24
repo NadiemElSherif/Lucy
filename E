@@ -8,7 +8,7 @@
             "discord_handle": "811897543193657365",
             "reddit_handle": "Lucy_Pool",
             "telegram_handle": "Lucy_Pool",
-            "twitter_handle": "Lucy_Pool5"
+            "twitter_handle": "LucyPool5"
         },
         "company": {
             "name": "Lucy Pool"
